@@ -1,5 +1,4 @@
-
-![Uploading Project_screenshot.jpeg…]()
+![Project_screenshot](https://github.com/user-attachments/assets/509cd36b-37cf-4221-a7c9-336a17e08d6b)
 
 # Cursor Landing Page Clone
 
